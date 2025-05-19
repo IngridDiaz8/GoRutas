@@ -1,0 +1,34 @@
+admin@gorutas.com
+123456789a
+
+empresas
+	
+	empresa1@gorutas.com  2 vehículos 
+	123456789a
+
+	empresa2@gorutas.com  2 vehículos
+	123456789a
+
+conductores
+
+	conductor1@gorutas.com  asociado a empresa1
+	123456789a
+
+	conductor2@gorutas.com	
+	123456789a
+
+colegios
+
+	colegio1@gorutas.com  2 rutas
+	123456789a
+
+	colegio2@gorutas.com  2 rutas
+	123456789a
+
+padres de familia
+
+	padre1@gorutas.com  2 hijos
+	123456789a
+
+	padre2@gorutas.com  2 hijos	
+	123456789a
